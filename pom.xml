@@ -87,13 +87,7 @@
 			<type>pom</type>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-               <snapshotRepository>
-                           <id>nexus</id>
-                                       <url>http://13.233.99.68:8081/nexus/content/repositories/ING-BM/</url>
-               </snapshotRepository>
-         </distributionManagement>
-
+	
 	<build>
 		<plugins>
 			<plugin>
